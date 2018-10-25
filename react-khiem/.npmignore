@@ -1,0 +1,7 @@
+/node_modules
+/src
+/scss
+.DS_Store
+/.vscode
+/.scripts
+/.phpintel
